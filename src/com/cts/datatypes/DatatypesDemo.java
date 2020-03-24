@@ -2,7 +2,7 @@ package com.cts.datatypes;
 
 public class DatatypesDemo {
 	
-
+//comment done by bala
 	public static void main(String[] args) {
 	
 		
